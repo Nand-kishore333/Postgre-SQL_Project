@@ -1,12 +1,12 @@
-# 🎧 PostgreSQL SQL Practice Project – Music Library Dataset
+# PostgreSQL SQL Practice Project – Music Library Dataset
 
-Welcome to my PostgreSQL practice project, where I explore and apply key SQL concepts using a **real-world music library database** (similar to the Chinook dataset).
+Welcome to my PostgreSQL practice project, where I explore and apply key SQL concepts using a **real-world music library database** .
 
 This repository is structured to demonstrate practical SQL skills — ideal for interview prep, portfolio projects, or anyone interested in relational databases.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project contains SQL files organized by key query topics, each written and tested using **PostgreSQL**.  
 The queries are based on a music store database, which includes tables such as:
@@ -22,7 +22,7 @@ These reflect real-world data relationships like music purchases, customer info,
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 | File Name         | Description                                     |
 |------------------|-------------------------------------------------|
@@ -38,7 +38,7 @@ Each file contains practical examples and query logic built around realistic dat
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Strengthen SQL query writing with PostgreSQL
 - Practice reading and interpreting database schemas
@@ -47,7 +47,7 @@ Each file contains practical examples and query logic built around realistic dat
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - PostgreSQL
 - pgAdmin / DBeaver (recommended for testing queries)
@@ -55,12 +55,12 @@ Each file contains practical examples and query logic built around realistic dat
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nand-kishore333/Postgre-SQL_Project.git
-Load the music store database in PostgreSQL (you can use the Chinook sample DB).
+Load the music store database in PostgreSQL .
 
 Open the .sql files in any SQL client and run the queries one by one.
 
@@ -75,13 +75,6 @@ Use joins to connect invoices, customers, and tracks
 
 Practice subqueries to find popular albums or average purchase values
 
-🧠 Ideal For
-SQL beginners improving query fluency
 
-Interview preparation (Data Analyst, BI roles)
-
-Anyone wanting hands-on PostgreSQL experience with structured data
-
-🙌 Contributions
-This project is open to suggestions and improvements.
-If you’d like to add new queries or optimizations, feel free to fork and submit a Pull Request.
+Thanks.
+Nand Kishore
