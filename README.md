@@ -1,6 +1,5 @@
-
-PostgreSQL SQL Practice – Music Library Project
-This is a small project I made to practice SQL using a music library database (kind of like the Chinook dataset). I used PostgreSQL to write and test all the queries.
+🎧 PostgreSQL SQL Practice – Music Library Project
+Hey there! This is a small project I made to practice SQL using a music library database (kind of like the Chinook dataset). I used PostgreSQL to write and test all the queries.
 
 It's a great way to get better at SQL — whether you're prepping for interviews, building your portfolio, or just want some hands-on experience with real database stuff.
 
@@ -72,3 +71,5 @@ Practice subqueries to find popular albums or average purchase values
 
 Thanks.
 Nand Kishore
+
+
